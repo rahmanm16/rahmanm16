@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my final year of CompSci<br>🤝 I’m looking for a graduate position, anything tech-related<br>🌱 I’m currently learning Python, C#<br>⚡ Fun fact: I love hiking, MMA, reading, camping, music, learning
+🔭 I’m currently working in my final year of university, on a CompSci degree<br>🤝 I’m looking for a graduate position, anything tech-related<br>🌱 I’m currently learning Python, C#, Go, and many more<br>⚡ Fun facts about me: I love hiking, MMA, reading, camping, music, and learning
 
 
 ## 🌐 Socials:
